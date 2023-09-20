@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @ChathuZi
-- 👀 I’m interested in Larvel and PHP.
-- 🌱 I’m currently learning at Coventry UniverSity.
-- 💞️ I’m looking to collaborate on Internship (Backend Developing)
-- 📫 How to reach me "sudeshiniewc@gmail.com" and 94779185940
+### Hi there, I'm Sudeshinie Wadigawage! 👋
+
+👀 I'm currently immersed in full-stack web development, leveraging .Net and Java technologies.
+
+🌱 I’m pursuing a Bachelor of Science (Hons) degree in Computer Science (Software Engineering) at the University of Wolverhampton.
+
+💞️ While I started as a novice in full-stack software development, my focus has now shifted towards the captivating realms of Data Science, Big Data, and Artificial Intelligence. I'm deeply intrigued by their transformative potential in the evolution of technology. While I continue to refine my full-stack skills, my true passion lies at the intersection of data science, artificial intelligence, deep learning, and big data.
+
+📫 You can reach out to me at sudeshiniewc@gmail.com or connect with me via phone at +94779185940.
+
 
 <!---
 ChathuZi/ChathuZi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

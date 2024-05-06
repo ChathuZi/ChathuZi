@@ -1,6 +1,6 @@
 ### Hi there, I'm Sudeshinie Wadigawage! 👋
 
-👀 I'm currently immersed in full-stack web development, leveraging .Net and Java technologies.
+👀 I'm currently immersed in full-stack web development, leveraging Java technologies such as JSP and Spring Boot, along with frontend frameworks like React and Angular.
 
 🌱 I’m pursuing a Bachelor of Science (Hons) degree in Computer Science (Software Engineering) at the University of Wolverhampton.
 
